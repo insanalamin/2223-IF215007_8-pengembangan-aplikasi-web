@@ -62,6 +62,7 @@ nodemon app.js
 - A: Misal untuk aplikasi baca n rating buku
 ```javascript
 const express = require('express')
+const cors = require('cors');
 const app = express()
 const port = 3000
 
