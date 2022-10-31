@@ -38,6 +38,7 @@ npm install cors express
 - A: Buat file dengan nama **app.js** di dalam folder project tersebut, lalu isi dengan
 ```javascript
 const express = require('express')
+const cors = require('cors')
 const app = express()
 const port = 3000
 
