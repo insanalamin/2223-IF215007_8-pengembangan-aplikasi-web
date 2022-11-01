@@ -1,8 +1,8 @@
-# Instalasi PostgreSQL
+# Instalasi dan Inisiasi Database PostgreSQL
 
 1. Buka [https://www.postgresql.org/download/windows/](https://www.postgresql.org/download/windows/)
 2. Download installernya [https://www.enterprisedb.com/downloads/postgres-postgresql-downloads](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) PostgreSQL versi 14
-3. Lakukan proses instalasi [https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/](https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/)
+3. Lakukan proses instalasi dan inisiasi database [https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/](https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/)
 
 # Instalasi Dbeaver
 
