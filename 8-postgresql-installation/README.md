@@ -21,3 +21,6 @@ Node-Postgres merupakan library NodeJS untuk mengakses dan mengelola PostgreSQL.
 npm install pg
 ```
 3. Ikuti tutorial penggunaan Node-Postgres di [https://node-postgres.com/](https://node-postgres.com/)
+
+# Akses PostgreSQL dari Aplikasi ExpressJS
+
