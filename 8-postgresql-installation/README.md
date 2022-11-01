@@ -25,4 +25,30 @@ npm install pg
 3. Ikuti tutorial penggunaan Node-Postgres di [https://node-postgres.com/](https://node-postgres.com/)
 
 # Akses PostgreSQL dari Aplikasi ExpressJS
+```nodejs
+const express = require('express')
+const cors = require('cors')
 
+const app = express()
+const port = 3000
+
+connectionSettings = {
+    user: 'postgres',
+    host: 'localhost',
+    database: 'postgres',
+    password: 'uinsgd',
+    port: 5444,
+}
+
+app.use(cors({
+    origin: '*'
+}));
+
+app.get('/', (req, res) => {
+  res.send('Hello World!')
+})
+
+app.listen(port, () => {
+  console.log(`Example app listening on port ${port}`)
+})
+```
