@@ -28,7 +28,7 @@ npm install pg
 ```nodejs
 const express = require('express')
 const cors = require('cors')
-const client = require('pg')
+const { Client } = require("pg")
 
 const app = express()
 const port = 3000
