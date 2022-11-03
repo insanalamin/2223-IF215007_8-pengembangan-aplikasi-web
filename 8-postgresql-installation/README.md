@@ -37,8 +37,8 @@ connectionSettings = {
     user: 'postgres',
     host: 'localhost',
     database: 'postgres',
-    password: 'uinsgd',
-    port: 5444,
+    password: 'passwordnya_pas_install_apa',
+    port: 5432,
 }
 
 app.use(cors({
