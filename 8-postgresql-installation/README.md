@@ -28,6 +28,7 @@ npm install pg
 ```nodejs
 const express = require('express')
 const cors = require('cors')
+const client = require('pg')
 
 const app = express()
 const port = 3000
@@ -45,7 +46,27 @@ app.use(cors({
 }));
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+
+  const client = new Client(connectionSettings)
+  
+  client.connect(err => {
+    if(err) throw err
+    console.log("Connected !") 
+  })
+  
+  client.query(`SELECT
+    contoh_atribut1,
+    contoh_atribut2,
+    contoh_atribut3
+    FROM 
+      contoh_skema1.contoh_tabel1
+  `, (erornyaDatabase, hasilDariDatabase) => {
+
+      res.json({
+        data: hasilDariDatabase.rows,
+      })  
+  })
+
 })
 
 app.listen(port, () => {
