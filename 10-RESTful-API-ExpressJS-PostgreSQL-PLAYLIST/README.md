@@ -16,8 +16,8 @@ Playlist Order | Title | Series | Priority
 8 | [Arsitektur Aplikasi](https://www.youtube.com/watch?v=cPpKR45z58s) | RESTful API - Express PostgreSQL | 90 
 9 | [Koneksi ke Database](https://youtu.be/Qbata_QpQqM) | RESTful API - Express PostgreSQL | 90 
 10 | [GET dan URL Query Parameter](https://youtu.be/f_y8-72dYg4) | RESTful API - Express PostgreSQL | 90 
-11 | GET by id | RESTful API - Express PostgreSQL | 90 
-12 | POST | RESTful API - Express PostgreSQL | 90 
+11 | [GET by id](https://www.youtube.com/watch?v=2_6nzhiIpos) | RESTful API - Express PostgreSQL | 90 
+12 | [POST dengan Bcrypt Password](https://www.youtube.com/watch?v=-I8NN0zbQwY) | RESTful API - Express PostgreSQL | 90 
 13 | DELETE | RESTful API - Express PostgreSQL | 90 
 14 | PUT | RESTful API - Express PostgreSQL | 90 
 15 | Autentikasi dan Autorisasi JWT | RESTful API - Express PostgreSQL | 40
