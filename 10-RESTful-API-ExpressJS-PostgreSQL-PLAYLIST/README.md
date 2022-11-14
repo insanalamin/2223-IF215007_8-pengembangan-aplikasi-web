@@ -1,7 +1,7 @@
 ## Playlist
 
 - [Link Playlist Youtube](https://www.youtube.com/playlist?list=PLBbyS6tq6KRS_tpteqiOdnuOvgfXNjDbQ)
-- [Link Gitlab]([https://gitlab.com/marchgis/march-ed/2022/series/restful-api-express-js-postgresql/-/tree/main/completed](https://gitlab.com/marchgis/march-ed/2022/series/restful-api-express-js-postgresql))
+- [Link Gitlab](https://gitlab.com/marchgis/march-ed/2022/series/restful-api-express-js-postgresql)
 - [Link Source Code Lengkap](https://gitlab.com/marchgis/march-ed/2022/series/restful-api-express-js-postgresql/-/tree/main/completed)
 
 Playlist Order | Title | Series | Priority
