@@ -1,7 +1,7 @@
 const express = require('express');
 
 // Constants
-const PORT = 3001;
+const PORT = 20222; // <ANGKATAN><3 ANGKAT TERAKHIR NIM>
 const HOST = '0.0.0.0';
 
 // App
