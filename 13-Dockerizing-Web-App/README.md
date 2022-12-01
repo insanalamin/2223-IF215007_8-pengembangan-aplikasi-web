@@ -22,6 +22,13 @@ nvm use 16
 
 # Build Docker Image dari Source Code
 
+## 0 Masuk Ke Folder Baru Project
+```sh
+cd ~/amin
+mkdir latihan-docker-image
+cd latihan-docker-image
+```
+
 ## 1 Inisiasi Project NPM
 
 ```sh
@@ -34,11 +41,11 @@ npm init
 npm install express
 ```
 
-## 3 Coding Script Backendnya
+## 3 Copy Script Backendnya
 
-file : [server.js](./server.js) doang
+file : [index.js](./index.js) doang
 
-## 4 Tulis dockerfile nya
+## 4 Copy dockerfile nya
 
 file : [dockerfile](./dockerfile) doang
 
