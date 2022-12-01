@@ -45,5 +45,5 @@ file : [dockerfile](./dockerfile) doang
 ## 5 Build dockerfile Jadi Docker Image
 
 ```sh
-docker build -t alfamart-backend:0.1.1 .
+docker build -t pawx-insan:0.1.0 .
 ```
