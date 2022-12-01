@@ -54,3 +54,8 @@ file : [dockerfile](./dockerfile) doang
 ```sh
 docker build -t pawx-insan:0.1.0 .
 ```
+## 6 Jalankan Container dari Docker Image yang sudah dibuat
+
+```sh
+docker run --name webservicenya-insan -p 20222:20222 pawx-insan:0.1.0
+```
