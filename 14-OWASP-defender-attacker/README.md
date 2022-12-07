@@ -2,7 +2,10 @@
 
 ## OWASP 2021
 - A01 Broken Access Control
-- A02 Cryptographic Failures
+  - User bisa akses hal-hal yang berada diluar kewenangannya
+- A02 Cryptographic Failures [\[1\]](https://crashtest-security.com/owasp-cryptographic-failures/) [\[2\]](https://www.cloudflare.com/learning/ssl/why-use-https/)
+  - Kegagalan kriptografi konten web
+  - Mengakibatkan pihak lain bisa melihat data yang dipertukarkan
 - A03 Injection
 - A04 Insecure Design
 - A05 Security Misconfiguration
