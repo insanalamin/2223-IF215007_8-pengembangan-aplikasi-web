@@ -17,9 +17,13 @@
 - A06 Vulnerable and Outdated Components
   - Komponen eksternal pembangun aplikasi yang beresiko ataupun yang belum diperbarui
 - A07 Identification and Authentication Failures
+  - Kegagalan pada proses identifikasi dan autentikasi pengguna
 - A08 Software and Data Integrity Failures
+  - Kegagalan akibat teknologi eksternal yang digunakan
 - A09 Security Logging and Monitoring Failures
+  - Kegagalan membuat sistem logging dan monitoring
 - A10 Server Side Request Forgery (SSRF)
+  
 
 ## Defender & Attacker
 - Cybersecurity specialist
