@@ -9,8 +9,13 @@
 - A03 Injection
   - Memanipulasi query di database dengan memanipulasi input dari sisi user
 - A04 Insecure Design
+  - Desain aplikasi yang tidak aman
+  - Umumnya karena kegagalan dalam memahami berbagai resiko yang dapat terjadi pada proses bisnis
 - A05 Security Misconfiguration
+  - Kesalahan konfigurasi keamanan dari berbagai teknologi yang digunakan
+  - Bisa terjadi karena lupa atau tidak tahu adanya konfigurasi bawaan yang tidak aman dari teknologi tertentu
 - A06 Vulnerable and Outdated Components
+  - Komponen eksternal pembangun aplikasi yang beresiko ataupun yang belum diperbarui
 - A07 Identification and Authentication Failures
 - A08 Software and Data Integrity Failures
 - A09 Security Logging and Monitoring Failures
