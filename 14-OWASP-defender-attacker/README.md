@@ -13,7 +13,7 @@
 - A10 Server Side Request Forgery (SSRF)
 
 ## Defender & Attacker
-- Cybersecurity engineer
+- Cybersecurity specialist
 - Pentester
 
 ## Referensi
