@@ -7,6 +7,7 @@
   - Kegagalan kriptografi konten web
   - Mengakibatkan pihak lain bisa melihat data yang dipertukarkan
 - A03 Injection
+  - Memanipulasi query di database dengan memanipulasi input dari sisi user
 - A04 Insecure Design
 - A05 Security Misconfiguration
 - A06 Vulnerable and Outdated Components
