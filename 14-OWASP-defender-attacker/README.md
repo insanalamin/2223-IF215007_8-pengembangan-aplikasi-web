@@ -23,7 +23,7 @@
 - A09 Security Logging and Monitoring Failures
   - Kegagalan membuat sistem logging dan monitoring
 - A10 Server Side Request Forgery (SSRF)
-  
+  - Request berbahaya dijalankan ke aplikasi C melalui celah web server B
 
 ## Defender & Attacker
 - Cybersecurity specialist
